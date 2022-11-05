@@ -1,0 +1,26 @@
+<idea-plugin>
+    <id>com.example.HelloPlugin2</id>
+
+    //插件名称
+    <name>HelloPlugin</name>
+
+    //插件信息显示，邮箱、公司（这个标签可以删除）
+    <vendor email="zouzhihao994@gmail.com" url="">xxxxx</vendor>
+
+    //描述信息
+    <description>
+    <![CDATA[
+    <h2>我开发的插件</h2>
+    <p>喜欢的可以试试</p>
+    ]]>
+    </description>
+
+    // 版本变更记录
+    <change-notes>
+     <![CDATA[
+     v1.0.0<br>
+     第一版本,项目搭建
+    ]]>
+    </change-notes>
+
+</idea-plugin>
